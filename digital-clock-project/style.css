@@ -1,0 +1,28 @@
+body {
+    font-family: Arial, sans-serif;
+    background: #0f172a;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.container {
+    text-align: center;
+    background: #1e293b;
+    padding: 30px;
+    border-radius: 10px;
+    width: 300px;
+}
+
+#clock {
+    font-size: 40px;
+    margin: 15px 0;
+    color: #38bdf8;
+}
+
+#countdown {
+    font-size: 18px;
+    margin-top: 10px;
+}
